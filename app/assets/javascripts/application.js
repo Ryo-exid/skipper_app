@@ -52,3 +52,5 @@ $(document).ready(function () {
     hidePrevious : false
   });
 });
+
+//スライド動いてない
